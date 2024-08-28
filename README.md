@@ -1,7 +1,7 @@
 # Amazon-clone
 A amazon clone with using HTML and CSS only
 # made by
-Sakshi ingh time taken to make is  2 hours
+Sakshi Singh time taken to make is  2 hours
 # follow on linkedIn
 
 
